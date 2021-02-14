@@ -15,5 +15,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishita0202&show_icons=true&locale=en&layout=compact" alt="ishita0202" /></p>
 </br></br>
 </br></br></br></br></br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishita0202&show_icons=true&locale=en" alt="ishita0202" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ishita0202&show_icons=true&locale=en" alt="ishita0202" /></p>
 
