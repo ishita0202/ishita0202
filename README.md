@@ -7,6 +7,7 @@
 <a href="https://instagram.com/ishita_0202" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ishita_0202" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ishita_2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ishita_2" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ishita_0202" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="ishita_0202" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,3 +19,7 @@
 
 # Most used Language #
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishita0202&show_icons=true&locale=en&layout=compact" alt="ishita0202" /></p>
+
+
+# 📫 How to reach me : #
+### 💌Mail me [ishitaachauhan11@gmail.com]()
