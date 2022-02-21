@@ -4,7 +4,7 @@
 <p align="left">
 <a href="https://twitter.com/ishita__0202" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ishita__0202" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ishita-chauhan-3571b81a5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ishita-chauhan-3571b81a5/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/if_plants_can_talk_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="if_plants_can_talk_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ishitaachauhan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="if_plants_can_talk_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ishita_2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ishita_2" height="30" width="40" /></a>
 
 
